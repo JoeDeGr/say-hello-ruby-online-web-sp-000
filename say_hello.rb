@@ -2,5 +2,5 @@
 
 def say_hello(name)
   puts "hello #{name}"
-  "hello #{name}
+  "hello #{name}" 
 end
